@@ -1,0 +1,13 @@
+(require 'init-package)
+(require 'init-basic)
+(require 'init-ui)
+(require 'init-keybind)
+(require 'init-tools)
+(require 'init-complete)
+(require 'init-prog)
+(require 'init-org)
+(require 'init-dired)
+(require 'init-version-control)
+(require 'init-ivy)
+
+(provide 'init-config)
